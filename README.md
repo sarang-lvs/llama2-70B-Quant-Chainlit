@@ -8,7 +8,7 @@ The data used for training is a sustainability report from Microsoft for FY 2022
 
 - This was developed using Llama2 7B Quantized model in conjunction with LangChain and FAISS.
 - This enitre solution runs on a CPU architecture and needs at least 16GB of memory free to run the model.
-- LLMs like Llama2 need large computing power (read - GPUs, TPUs etc.), so a technique called quantization is used instead, which makes it possible to reduce the size, and makes it possible to run the model on a regular laptop CPU.
+- LLMs like Llama2 need large computing power (read - GPUs, TPUs etc.), so a technique called quantization is used instead, which reduces the size and precision, but makes it possible to run the model on a regular laptop CPU.
 - Chainlit is a web framework used for creating this bot.
 
 ## Usage
