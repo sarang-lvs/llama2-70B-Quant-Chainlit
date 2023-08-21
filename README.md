@@ -25,3 +25,7 @@ Original report here: [Microsoft 2022 Environmental Sustainability Report](https
 - [Llama2 7B Quantized Model- download from here](https://huggingface.co/TheBloke/Llama-2-7B-GGML)
 - [LangChain](https://www.langchain.com/)
 - [FAISS](https://engineering.fb.com/2017/03/29/data-infrastructure/faiss-a-library-for-efficient-similarity-search/)
+
+## SCreenshots
+
+![First screen](image.png)
