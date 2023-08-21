@@ -1,4 +1,4 @@
-# Welcome to the Sustainability Chatbot! 🤖🤖
+# Welcome to the CPU Chatbot! 🤖🤖
 
 Hi there! This chatbot answers questions about Microsoft's Sustainability Report for FY 2022. This is a **PoC for building a chatbot using Open Source Large Language Model such as Llama2 70B (Quantized) on a CPU**.
 
